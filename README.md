@@ -2,6 +2,6 @@
 
 📍 Based in Auckland, New Zealand. 
 
-🚀 Currently working on Tweek, an student educatioal platform.
+🚀 Currently working on an student educatioal platform.
 
 React, Next, vanilla , flowbite, Graphql, Typescript, php, python and c#.
