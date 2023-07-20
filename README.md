@@ -1,7 +1,5 @@
-### Hi there 👋
+Auckland, New Zealand. 
 
-📍 Based in Auckland, New Zealand. 
-
-🚀 Currently working on an student educatioal platform.
+🚀 Currently working on an student platform
 
 React, Next, vanilla , flowbite, Graphql, Typescript, php, python and c#.
